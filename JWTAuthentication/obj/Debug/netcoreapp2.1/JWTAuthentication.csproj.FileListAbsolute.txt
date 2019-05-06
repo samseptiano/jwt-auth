@@ -1,0 +1,14 @@
+C:\Users\samuel.septiano\source\repos\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.deps.json
+C:\Users\samuel.septiano\source\repos\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.runtimeconfig.json
+C:\Users\samuel.septiano\source\repos\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.runtimeconfig.dev.json
+C:\Users\samuel.septiano\source\repos\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.dll
+C:\Users\samuel.septiano\source\repos\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.pdb
+C:\Users\samuel.septiano\source\repos\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\samuel.septiano\source\repos\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorAssemblyInfo.cache
+C:\Users\samuel.septiano\source\repos\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorAssemblyInfo.cs
+C:\Users\samuel.septiano\source\repos\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.AssemblyInfoInputs.cache
+C:\Users\samuel.septiano\source\repos\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.AssemblyInfo.cs
+C:\Users\samuel.septiano\source\repos\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorTargetAssemblyInfo.cache
+C:\Users\samuel.septiano\source\repos\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.dll
+C:\Users\samuel.septiano\source\repos\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.pdb
+C:\Users\samuel.septiano\source\repos\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.csprojAssemblyReference.cache
