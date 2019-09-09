@@ -1,0 +1,42 @@
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\MigraDoc.Rendering.deps.json
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\MigraDoc.Rendering.dll
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\MigraDoc.Rendering.pdb
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\de\MigraDoc.Rendering.resources.dll
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.dll
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\PdfSharp.Charting.dll
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\PdfSharp.dll
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.pdb
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\PdfSharp.Charting.pdb
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\PdfSharp.pdb
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.csprojAssemblyReference.cache
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.Rendering.Resources.Messages2.resources
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.Rendering.Resources.Messages2.de.resources
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.csproj.GenerateResource.cache
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.csproj.CoreCompileInputs.cache
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.AssemblyInfoInputs.cache
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.AssemblyInfo.cs
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\de\MigraDoc.Rendering.resources.dll
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.csproj.CopyComplete
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.dll
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.pdb
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\MigraDoc.Rendering.deps.json
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\MigraDoc.Rendering.dll
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\MigraDoc.Rendering.pdb
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\de\MigraDoc.Rendering.resources.dll
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.dll
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\PdfSharp.Charting.dll
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\PdfSharp.dll
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.pdb
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\PdfSharp.Charting.pdb
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\bin\Debug\netstandard2.0\PdfSharp.pdb
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.csprojAssemblyReference.cache
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.Rendering.Resources.Messages2.resources
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.Rendering.Resources.Messages2.de.resources
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.csproj.GenerateResource.cache
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.csproj.CoreCompileInputs.cache
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.AssemblyInfoInputs.cache
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.AssemblyInfo.cs
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\de\MigraDoc.Rendering.resources.dll
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.csproj.CopyComplete
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.dll
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.Rendering\obj\Debug\netstandard2.0\MigraDoc.Rendering.pdb
