@@ -1,0 +1,24 @@
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp.Charting\bin\Debug\netstandard2.0\PdfSharp.Charting.deps.json
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp.Charting\bin\Debug\netstandard2.0\PdfSharp.Charting.dll
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp.Charting\bin\Debug\netstandard2.0\PdfSharp.Charting.pdb
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp.Charting\bin\Debug\netstandard2.0\PdfSharp.dll
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp.Charting\bin\Debug\netstandard2.0\PdfSharp.pdb
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp.Charting\obj\Debug\netstandard2.0\PdfSharp.Charting.csprojAssemblyReference.cache
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp.Charting\obj\Debug\netstandard2.0\PdfSharp.Charting.csproj.CoreCompileInputs.cache
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp.Charting\obj\Debug\netstandard2.0\PdfSharp.Charting.AssemblyInfoInputs.cache
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp.Charting\obj\Debug\netstandard2.0\PdfSharp.Charting.AssemblyInfo.cs
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp.Charting\obj\Debug\netstandard2.0\PdfSharp.Charting.csproj.CopyComplete
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp.Charting\obj\Debug\netstandard2.0\PdfSharp.Charting.dll
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp.Charting\obj\Debug\netstandard2.0\PdfSharp.Charting.pdb
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp.Charting\bin\Debug\netstandard2.0\PdfSharp.Charting.deps.json
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp.Charting\bin\Debug\netstandard2.0\PdfSharp.Charting.dll
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp.Charting\bin\Debug\netstandard2.0\PdfSharp.Charting.pdb
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp.Charting\bin\Debug\netstandard2.0\PdfSharp.dll
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp.Charting\bin\Debug\netstandard2.0\PdfSharp.pdb
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp.Charting\obj\Debug\netstandard2.0\PdfSharp.Charting.csprojAssemblyReference.cache
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp.Charting\obj\Debug\netstandard2.0\PdfSharp.Charting.csproj.CoreCompileInputs.cache
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp.Charting\obj\Debug\netstandard2.0\PdfSharp.Charting.AssemblyInfoInputs.cache
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp.Charting\obj\Debug\netstandard2.0\PdfSharp.Charting.AssemblyInfo.cs
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp.Charting\obj\Debug\netstandard2.0\PdfSharp.Charting.csproj.CopyComplete
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp.Charting\obj\Debug\netstandard2.0\PdfSharp.Charting.dll
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp.Charting\obj\Debug\netstandard2.0\PdfSharp.Charting.pdb

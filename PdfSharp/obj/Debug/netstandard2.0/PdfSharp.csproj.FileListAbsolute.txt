@@ -1,0 +1,22 @@
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp\bin\Debug\netstandard2.0\PdfSharp.deps.json
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp\bin\Debug\netstandard2.0\PdfSharp.dll
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp\bin\Debug\netstandard2.0\PdfSharp.pdb
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.csprojAssemblyReference.cache
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.Forms.PagePreview.resources
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.csproj.GenerateResource.cache
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.csproj.CoreCompileInputs.cache
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.AssemblyInfoInputs.cache
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.AssemblyInfo.cs
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.dll
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.pdb
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp\bin\Debug\netstandard2.0\PdfSharp.deps.json
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp\bin\Debug\netstandard2.0\PdfSharp.dll
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp\bin\Debug\netstandard2.0\PdfSharp.pdb
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.csprojAssemblyReference.cache
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.Forms.PagePreview.resources
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.csproj.GenerateResource.cache
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.csproj.CoreCompileInputs.cache
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.AssemblyInfoInputs.cache
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.AssemblyInfo.cs
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.dll
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\PdfSharp\obj\Debug\netstandard2.0\PdfSharp.pdb

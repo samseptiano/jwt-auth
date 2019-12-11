@@ -1,0 +1,103 @@
+D:\Dokumen\PROJECT\VS 2017\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.deps.json
+D:\Dokumen\PROJECT\VS 2017\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.json
+D:\Dokumen\PROJECT\VS 2017\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.dev.json
+D:\Dokumen\PROJECT\VS 2017\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.dll
+D:\Dokumen\PROJECT\VS 2017\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.pdb
+D:\Dokumen\PROJECT\VS 2017\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.csprojAssemblyReference.cache
+D:\Dokumen\PROJECT\VS 2017\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.csproj.CoreCompileInputs.cache
+D:\Dokumen\PROJECT\VS 2017\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cache
+D:\Dokumen\PROJECT\VS 2017\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cs
+D:\Dokumen\PROJECT\VS 2017\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfoInputs.cache
+D:\Dokumen\PROJECT\VS 2017\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfo.cs
+D:\Dokumen\PROJECT\VS 2017\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorTargetAssemblyInfo.cache
+D:\Dokumen\PROJECT\VS 2017\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.dll
+D:\Dokumen\PROJECT\VS 2017\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.pdb
+D:\API Training\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.deps.json
+D:\API Training\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.json
+D:\API Training\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.dev.json
+D:\API Training\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.dll
+D:\API Training\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.pdb
+D:\API Training\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.csprojAssemblyReference.cache
+D:\API Training\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.csproj.CoreCompileInputs.cache
+D:\API Training\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cache
+D:\API Training\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cs
+D:\API Training\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfoInputs.cache
+D:\API Training\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfo.cs
+D:\API Training\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorTargetAssemblyInfo.cache
+D:\API Training\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.dll
+D:\API Training\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.pdb
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT07082019\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.deps.json
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT07082019\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.json
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT07082019\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.dev.json
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT07082019\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.dll
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT07082019\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.pdb
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.csproj.CoreCompileInputs.cache
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cache
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cs
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfoInputs.cache
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfo.cs
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorTargetAssemblyInfo.cache
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.dll
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.pdb
+D:\API Training\JWT07082019\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.deps.json
+D:\API Training\JWT07082019\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.json
+D:\API Training\JWT07082019\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.dev.json
+D:\API Training\JWT07082019\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.dll
+D:\API Training\JWT07082019\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.pdb
+D:\API Training\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.csprojAssemblyReference.cache
+D:\API Training\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.csproj.CoreCompileInputs.cache
+D:\API Training\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cache
+D:\API Training\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cs
+D:\API Training\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfoInputs.cache
+D:\API Training\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfo.cs
+D:\API Training\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorTargetAssemblyInfo.cache
+D:\API Training\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.dll
+D:\API Training\JWT07082019\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.pdb
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.deps.json
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.json
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.dev.json
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.dll
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\bin\Debug\netcoreapp2.1\JWT.pdb
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.csprojAssemblyReference.cache
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.Properties.Resources.resources
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.csproj.GenerateResource.cache
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.csproj.CoreCompileInputs.cache
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cache
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cs
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfoInputs.cache
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfo.cs
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.RazorTargetAssemblyInfo.cache
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.dll
+D:\DATA HP FOLIO PRIMER\BACKUP PROJECT\JWT\JWT\JWT\obj\Debug\netcoreapp2.1\JWT.pdb
+D:\API Training\JWT v2\JWT\bin\Debug\netcoreapp2.1\JWT.deps.json
+D:\API Training\JWT v2\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.json
+D:\API Training\JWT v2\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.dev.json
+D:\API Training\JWT v2\JWT\bin\Debug\netcoreapp2.1\JWT.dll
+D:\API Training\JWT v2\JWT\bin\Debug\netcoreapp2.1\JWT.pdb
+D:\API Training\JWT v2\JWT\obj\Debug\netcoreapp2.1\JWT.csprojAssemblyReference.cache
+D:\API Training\JWT v2\JWT\obj\Debug\netcoreapp2.1\JWT.Properties.Resources.resources
+D:\API Training\JWT v2\JWT\obj\Debug\netcoreapp2.1\JWT.csproj.GenerateResource.cache
+D:\API Training\JWT v2\JWT\obj\Debug\netcoreapp2.1\JWT.csproj.CoreCompileInputs.cache
+D:\API Training\JWT v2\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cache
+D:\API Training\JWT v2\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cs
+D:\API Training\JWT v2\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfoInputs.cache
+D:\API Training\JWT v2\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfo.cs
+D:\API Training\JWT v2\JWT\obj\Debug\netcoreapp2.1\JWT.RazorTargetAssemblyInfo.cache
+D:\API Training\JWT v2\JWT\obj\Debug\netcoreapp2.1\JWT.dll
+D:\API Training\JWT v2\JWT\obj\Debug\netcoreapp2.1\JWT.pdb
+D:\API Training\JWT pa ONLINE\JWT\bin\Debug\netcoreapp2.1\JWT.deps.json
+D:\API Training\JWT pa ONLINE\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.json
+D:\API Training\JWT pa ONLINE\JWT\bin\Debug\netcoreapp2.1\JWT.runtimeconfig.dev.json
+D:\API Training\JWT pa ONLINE\JWT\bin\Debug\netcoreapp2.1\JWT.dll
+D:\API Training\JWT pa ONLINE\JWT\bin\Debug\netcoreapp2.1\JWT.pdb
+D:\API Training\JWT pa ONLINE\JWT\obj\Debug\netcoreapp2.1\JWT.csprojAssemblyReference.cache
+D:\API Training\JWT pa ONLINE\JWT\obj\Debug\netcoreapp2.1\JWT.Properties.Resources.resources
+D:\API Training\JWT pa ONLINE\JWT\obj\Debug\netcoreapp2.1\JWT.csproj.GenerateResource.cache
+D:\API Training\JWT pa ONLINE\JWT\obj\Debug\netcoreapp2.1\JWT.csproj.CoreCompileInputs.cache
+D:\API Training\JWT pa ONLINE\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cache
+D:\API Training\JWT pa ONLINE\JWT\obj\Debug\netcoreapp2.1\JWT.RazorAssemblyInfo.cs
+D:\API Training\JWT pa ONLINE\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfoInputs.cache
+D:\API Training\JWT pa ONLINE\JWT\obj\Debug\netcoreapp2.1\JWT.AssemblyInfo.cs
+D:\API Training\JWT pa ONLINE\JWT\obj\Debug\netcoreapp2.1\JWT.RazorTargetAssemblyInfo.cache
+D:\API Training\JWT pa ONLINE\JWT\obj\Debug\netcoreapp2.1\JWT.dll
+D:\API Training\JWT pa ONLINE\JWT\obj\Debug\netcoreapp2.1\JWT.pdb

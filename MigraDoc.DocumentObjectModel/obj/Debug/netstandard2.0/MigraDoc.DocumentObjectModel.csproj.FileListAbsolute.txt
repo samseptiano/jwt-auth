@@ -1,0 +1,18 @@
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\bin\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.deps.json
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\bin\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.dll
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\bin\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.pdb
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\obj\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.csprojAssemblyReference.cache
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\obj\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.csproj.CoreCompileInputs.cache
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\obj\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.AssemblyInfoInputs.cache
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\obj\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.AssemblyInfo.cs
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\obj\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.dll
+C:\Users\samuel.septiano\Downloads\Compressed\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\obj\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.pdb
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\bin\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.deps.json
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\bin\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.dll
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\bin\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.pdb
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\obj\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.csprojAssemblyReference.cache
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\obj\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.csproj.CoreCompileInputs.cache
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\obj\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.AssemblyInfoInputs.cache
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\obj\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.AssemblyInfo.cs
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\obj\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.dll
+D:\Dokumen\PROJECT\VS 2017\AspNetCorePdf-master\MigraDoc.DocumentObjectModel\obj\Debug\netstandard2.0\MigraDoc.DocumentObjectModel.pdb
